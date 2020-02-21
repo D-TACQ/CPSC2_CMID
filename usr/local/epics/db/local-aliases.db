@@ -1,0 +1,3 @@
+alias("${UUT}:SYS:IFCONFIG:ETH0", "test_cpsc2:SYS:IFCONFIG:ETH0")
+alias("${UUT}:SYS:UPTIME", "test_cpsc2:SYS:UPTIME")
+
